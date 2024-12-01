@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jindvir Singh
 - 👀 I’m interested in coding relaible and efficient solutions
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Web
 - 💞️ I’m looking to collaborate on WebRTC Projs
 - 📫 Connect on LinkedIn 
 
