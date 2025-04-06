@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jindvir Singh
 - 👀 I’m interested in coding relaible and efficient solutions
-- 🌱 I’m currently learning Java
 - 📫 Connect on LinkedIn 
 
 <!---
